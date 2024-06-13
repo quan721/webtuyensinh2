@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/webtuyensinh2/static/css/main.f855e6bc.css",
+    "main.js": "/webtuyensinh2/static/js/main.efa78982.js",
+    "static/js/453.6267cfd6.chunk.js": "/webtuyensinh2/static/js/453.6267cfd6.chunk.js",
+    "static/media/theme4.jpg": "/webtuyensinh2/static/media/theme4.a83018bb8ae8cd842dbc.jpg",
+    "static/media/theme2.jpg": "/webtuyensinh2/static/media/theme2.44a0abd47502048e7ed7.jpg",
+    "static/media/themeispace.jpg": "/webtuyensinh2/static/media/themeispace.e2f0d28abd7f390b7c00.jpg",
+    "static/media/loiich.jpg": "/webtuyensinh2/static/media/loiich.3f5975f9d1268476f3c0.jpg",
+    "static/media/theme6.jpg": "/webtuyensinh2/static/media/theme6.f759c1e687fd60c1ac93.jpg",
+    "index.html": "/webtuyensinh2/index.html",
+    "main.f855e6bc.css.map": "/webtuyensinh2/static/css/main.f855e6bc.css.map",
+    "main.efa78982.js.map": "/webtuyensinh2/static/js/main.efa78982.js.map",
+    "453.6267cfd6.chunk.js.map": "/webtuyensinh2/static/js/453.6267cfd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.efa78982.js"
+  ]
+}
